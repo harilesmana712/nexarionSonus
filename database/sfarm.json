@@ -1,0 +1,67 @@
+{
+  "kain": {
+    "name": "Kain (Cloth)",
+    "items": [
+      {
+        "name": "Laduro",
+        "location": "Tunnel of Trials\nTanah Percobaan"
+      }
+    ]
+  },
+  "kayu": {
+    "name": "Kayu (Wood)",
+    "items": [
+      {
+        "name": "Ivy",
+        "location": "Dark Dragon Shrine: Middle\nKuil Naga Kegelapan: Tengah"
+      }
+    ]
+  },
+  "obat": {
+    "name": "Obat (Medicine)",
+    "items": [
+      {
+        "name": "Grape Jelly",
+        "location": "Ultimea Sewer: Southeast\nSaluran Bawah Tanah Ultimea: Tenggara"
+      },
+      {
+        "name": "Disaur",
+        "location": "Bowa Konda: Underground Area\nBowa Konda: Area Bawah Tanah"
+      }
+    ]
+  },
+  "batu": {
+    "name": "Metal (Batu)",
+    "items": [
+      {
+        "name": "Bubble Angel / Malaikat Gelembung",
+        "location": "Shrine of The Gods: Area 2\nKuil Para Dewa: Area 2"
+      },
+      {
+        "name": "Laduro",
+        "location": "Tunnel of Trials\nTanah Percobaan"
+      }
+    ]
+  },
+  "mana": {
+    "name": "Mana",
+    "items": [
+      {
+        "name": "Famarin",
+        "location": "Espuma Dome: Area 2\nKubah Espuma: Area 2"
+      },
+      {
+        "name": "Bubble Angel / Malaikat Gelembung",
+        "location": "Shrine of The Gods: Area 2\nKuil Para Dewa: Area 2"
+      },
+      {
+        "name": "Venom",
+        "location": "Ultimea Sewer: South\nSaluran Bawah Tanah Ultimea: Selatan"
+      },
+      {
+        "name": "Breppa",
+        "location": "Algid Passage\nLorong Dingin"
+      }
+    ]
+  }
+}

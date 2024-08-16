@@ -1,0 +1,6 @@
+[build]
+  functions = "netlify-functions"
+  command = "echo 'No build command needed'"
+
+[functions]
+  directory = "netlify-functions"
